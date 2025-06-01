@@ -2,6 +2,8 @@
 
 > ⚠️ **Aviso:** Este bot ainda está em desenvolvimento. Algumas funções podem mudar, apresentar instabilidades ou serem aprimoradas nas próximas versões. Use e reporte bugs ou sugestões!
 
+> ❌ **aviso de versão:** Um erro de incompatibilidade do DSharpPlus fez que o cadastro e o login atraves de comandos slash (comandos ultilizado "/") não funcionar corretamente, mas não se precupe, o cadastro e login ainda é possivel ultilizando o prefixo "c;". Desculpe-me pelo transtorno, tentarei concertar o mais rapido o possivel! Ass: Mercury (Dev)
+
 ---
 
 ## Índice
@@ -45,6 +47,7 @@ O **CMOS3bot** é um bot multi-servidor para Discord, focado em **moderação**,
 - Recomenda-se criar um canal específico para anúncios e logs.
 - Configure permissões do bot para garantir acesso aos canais necessários.
 - É necessario uma conta no bot para ultilizar seus serviços.
+- Os comandos não slash podem ser acionados com o prefixo "c;".
   
 ---
 
