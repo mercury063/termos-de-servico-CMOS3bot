@@ -1,4 +1,4 @@
-# 📄 **Termos de Serviço do Bot [NOME DO BOT]**
+# 📄 **Termos de Serviço do Bot [CMOS3 bot]**
 
 ---
 
