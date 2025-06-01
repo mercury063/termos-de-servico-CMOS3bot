@@ -1,4 +1,4 @@
-# 🔒 **Política de Privacidade do Bot [NOME DO BOT]**
+# 🔒 **Política de Privacidade do Bot [CMOS3bot]**
 
 ---
 
