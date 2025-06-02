@@ -2,8 +2,6 @@
 
 > ⚠️ **Aviso:** Este bot ainda está em desenvolvimento. Algumas funções podem mudar, apresentar instabilidades ou serem aprimoradas nas próximas versões. Use e reporte bugs ou sugestões!
 
-> ❌ **aviso de versão:** Um erro de incompatibilidade do DSharpPlus fez que o cadastro e o login atraves de comandos slash (comandos ultilizado "/") não funcionar corretamente, mas não se precupe, o cadastro e login ainda é possivel ultilizando o prefixo "c;". Desculpe-me pelo transtorno, tentarei concertar o mais rapido o possivel! Ass: Mercury (Dev)
-
 ---
 
 ## Índice
